@@ -1,1 +1,4 @@
 
+User-agent: *
+Allow: /
+Sitemap: https://safwan-portfolio.vercel.app/sitemap.xml
