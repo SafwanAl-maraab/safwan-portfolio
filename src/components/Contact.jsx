@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+تimport { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 
 export default function Contact() {
@@ -125,7 +125,7 @@ export default function Contact() {
 
             {/* Telegram */}
             <a
-              href="https://t.me/softphone"
+              href="https://t.me/StarWeb4"
               target="_blank"
               className="flex items-center justify-between p-6 rounded-2xl bg-blue-500 text-white shadow-lg hover:scale-105 transition"
             >
